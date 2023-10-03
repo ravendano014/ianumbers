@@ -1,6 +1,6 @@
 # Number Recognition with Artificial Intelligence
 
-![Live Demo]([https://ravendano014.github.io/ianumbers/]) <!-- Si tienes un logo, puedes incluirlo aquí -->
+[Live Demo](https://ravendano014.github.io/ianumbers/index.html) <!-- Si tienes un logo, puedes incluirlo aquí -->
 
 Welcome to the Number Recognition with Artificial Intelligence project! This repository contains a Python program that uses machine learning techniques to recognize numbers in images.
 
